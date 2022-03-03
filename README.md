@@ -5,9 +5,9 @@ It's testing/comparison the 2 algoriths of sorting: BUBBLE SORT and QUICK SORT.
 Can process command-line arguments:
 
 ==========================HELP==========================
-1. -t       show execution time of sorting algorithms
-2. -o       activate testing sorts
-3. -s       show numbers of swaps and comparisons
-4. -a       original and sorted array
-5. -N <num> creating a random array of <num> (no more than 4095) elements and sorting\
+* -t       show execution time of sorting algorithms
+* -o       activate testing sorts.
+* -s       show numbers of swaps and comparisons.
+* -a       original and sorted array.
+* -N <num> creating a random array of <num> (no more than 4095) elements and sorting.
 ========================================================
